@@ -1,0 +1,15 @@
+jsonfield-0.9.23.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+jsonfield-0.9.23.dist-info/METADATA,sha256=6n5x7NrrE5ArF4mEg0vyuBzhZjg7hrz80wji0WSVfnE,3797
+jsonfield-0.9.23.dist-info/RECORD,,
+jsonfield-0.9.23.dist-info/WHEEL,sha256=1GbQwWo-bz5MQ7TWgxmoj0u3qc5GM8qVkJvIGW53qLM,93
+jsonfield-0.9.23.dist-info/top_level.txt,sha256=vKhrOliM1tJJBXUhSXSoHcWs_90pUa7ogHvn-mzxGKQ,10
+jsonfield/__init__.py,sha256=KXzN7PtFU4OD9zamNaicnKE_2VQ5_CB_K6v0nY3YS4w,45
+jsonfield/__init__.pyc,,
+jsonfield/fields.py,sha256=E0QchJR3rf_RRaJNPZfn18xH6vgrhhNLFti2nBOP6os,5623
+jsonfield/fields.pyc,,
+jsonfield/models.py,sha256=yXIA5LSYKowbs8bQWcU1TJ4Yc10MdEP5zWS5QD5P38E,43
+jsonfield/models.pyc,,
+jsonfield/subclassing.py,sha256=oUciIKkTl9JdclWsjm9LmUAXPbPrrXIuOSP7BYjuenY,2286
+jsonfield/subclassing.pyc,,
+jsonfield/tests.py,sha256=ZeOUF_KcnpjXnRL9qpDK3ju1y6_SYV9E87HaBUCLTw0,10231
+jsonfield/tests.pyc,,

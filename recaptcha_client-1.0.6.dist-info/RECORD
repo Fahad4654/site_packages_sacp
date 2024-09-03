@@ -1,0 +1,13 @@
+recaptcha/client/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+recaptcha/client/__init__.pyc,,
+recaptcha/client/captcha.py,sha256=rVDPv-TXhlNIDzeYod-S3qWSHLCe8cesvQhkqXBXg8M,3116
+recaptcha/client/captcha.pyc,,
+recaptcha/client/mailhide.py,sha256=aCFcbgA8Yd8a8HvymtyJMgXP3J9vY7CHonAJsTNEwdY,2264
+recaptcha/client/mailhide.pyc,,
+recaptcha_client-1.0.6-py2.7-nspkg.pth,sha256=HLOG0aGni3QqVpLUJUmuqB3b-e7U9Jui3vYp2YNdmXs,554
+recaptcha_client-1.0.6.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+recaptcha_client-1.0.6.dist-info/METADATA,sha256=Yg1ONj1cjoWpLLl_StM8liIQg-t4biqrda9K-Db3CPA,1722
+recaptcha_client-1.0.6.dist-info/RECORD,,
+recaptcha_client-1.0.6.dist-info/WHEEL,sha256=1GbQwWo-bz5MQ7TWgxmoj0u3qc5GM8qVkJvIGW53qLM,93
+recaptcha_client-1.0.6.dist-info/namespace_packages.txt,sha256=uS_MgkgDMiC4xoZhDIy5PygHHZFpJjIZkTMWZPtdvwM,10
+recaptcha_client-1.0.6.dist-info/top_level.txt,sha256=uS_MgkgDMiC4xoZhDIy5PygHHZFpJjIZkTMWZPtdvwM,10

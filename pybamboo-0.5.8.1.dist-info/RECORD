@@ -1,0 +1,17 @@
+pybamboo-0.5.8.1.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+pybamboo-0.5.8.1.dist-info/METADATA,sha256=Px4kcsLQAU3QjJ1n46tqtTZfILMGjZcA2GyszYYbhUM,1335
+pybamboo-0.5.8.1.dist-info/RECORD,,
+pybamboo-0.5.8.1.dist-info/WHEEL,sha256=1GbQwWo-bz5MQ7TWgxmoj0u3qc5GM8qVkJvIGW53qLM,93
+pybamboo-0.5.8.1.dist-info/top_level.txt,sha256=8CsvVrLKoeo6HIwKT1887kkIotVDJa8Sfmr6YcLny-M,9
+pybamboo/__init__.py,sha256=47DEQpj8HBSa-_TImW-5JCeuQeRkm5NMpJWZG3hSuFU,0
+pybamboo/__init__.pyc,,
+pybamboo/connection.py,sha256=BddFHwWhIWIJoZT7jFigriTJIH2c_e5LH-xvOXFlLFk,1332
+pybamboo/connection.pyc,,
+pybamboo/dataset.py,sha256=_1y7uip5FDzQCu8rmAy_yab3dQm-VIyy_YsyhkqqDtM,25564
+pybamboo/dataset.pyc,,
+pybamboo/decorators.py,sha256=xZH-o4fYhCzsX_lcfjSFyTN5Q4TqidGL0qa86I1gFng,1806
+pybamboo/decorators.pyc,,
+pybamboo/exceptions.py,sha256=HsItOa1FiI2wDjvDBB8Pyt0JYGM-42wqw2ILiBVOOo0,500
+pybamboo/exceptions.pyc,,
+pybamboo/utils.py,sha256=y6z_faS1TTqYSNr4WDWViB3tOzNJscaLE_pJzHDmQIw,357
+pybamboo/utils.pyc,,
